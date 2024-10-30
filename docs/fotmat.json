@@ -1,0 +1,16 @@
+{
+  "startDate": "2019-01-01",
+  "withCountervailing": false,
+  "timeEntries": [
+    {
+      "startTime": "09:00",
+      "endTime": "13:00"
+    },
+    {
+      "startTime": "14:00",
+      "endTime": "18:00"
+    }
+  ],
+  "breakTime": 60,
+  "employeeDocument": "80285111213"
+}
