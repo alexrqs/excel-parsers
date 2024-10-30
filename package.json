@@ -1,0 +1,17 @@
+{
+  "name": "excel-parsers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "read-excel-file": "^5.8.6",
+    "ts-jest": "^29.2.5"
+  }
+}
